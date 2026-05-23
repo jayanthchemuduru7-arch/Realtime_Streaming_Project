@@ -84,8 +84,7 @@ realtime-streaming-fabric-pipeline/
 ├── docs/
 │   ├── architecture.md
 │   └── interview_guide.md
-└── images/
-    └── (add your screenshots here)
+
 ```
 
 ---
