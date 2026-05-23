@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.env
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets - NEVER commit these!
+*.key
+*.pem
+secrets.py
+*connection_string*
+
+# Spark
+metastore_db/
+spark-warehouse/
+derby.log
+
+# Delta checkpoints
+checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
